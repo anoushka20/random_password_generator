@@ -9,6 +9,9 @@
  
  <center>
 <?php
+//
+
+
 if(isset($_POST['generate']))
 {
 	$post_upper_case=$_POST['upper_case'];
